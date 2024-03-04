@@ -72,6 +72,7 @@ export default function LoginPage(){
                 Login here
             </button>
             <Link href="/singup">Dont Have account Singup</Link>
+            <Link href="/forgotpassrodemail">Forgot Password </Link>
         </div>
     );
 
